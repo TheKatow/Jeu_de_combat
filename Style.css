@@ -1,0 +1,10 @@
+button{
+    height: 9vw;
+    width: 15vw;
+    border-radius: 15%;
+    background-color: bisque;
+    font-size: 15px;  
+    text-shadow: 1px 1px 6px ;
+    font-size: x-large;
+    font-family: cursive;
+}
